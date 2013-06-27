@@ -7,4 +7,20 @@
 
   <packaging>jar</packaging>
 
+  <repositories>
+    <repository>
+    <id>1</id>
+    <url>http://166.78.172.199/repo</url>
+    </repository>
+  </repositories>
+  <dependencies>
+    <dependency>
+      <groupId>robocode</groupId>
+      <version>1.7.3.2</version>
+      <artifactId>robocode</artifactId>
+    
+    </dependency>
+
+  </dependencies>
+
 </project>
