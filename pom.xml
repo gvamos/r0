@@ -1,0 +1,10 @@
+<project>
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>RoboKata</groupId>
+  <version>0.1</version>
+  <artifactId>r0</artifactId>
+
+  <packaging>jar</packaging>
+
+</project>
